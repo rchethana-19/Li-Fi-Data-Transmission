@@ -6,7 +6,6 @@ A simple Li‑Fi (Light Fidelity) demo that transmits data using visible light a
 - Processing sketch that renders a real‑time radar visualization from the serial data
 - Arduino Nano sketch that demonstrates a basic Li‑Fi receiver using an LDR to decode light pulses
 
-Video reference: https://www.youtube.com/watch?v=IdU6eCJ9Rh0
 
 ## Project structure
 
