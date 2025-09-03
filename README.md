@@ -70,8 +70,6 @@ git push -u origin main
 
 ## Project Photo
 
-Place your photo in the `assets/` folder with the name `setup.jpg` (or update the path below if you prefer a different name).
-
 ![Project Setup](assets/setup.jpg)
 
 [View full image](assets/setup.jpg)
