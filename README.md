@@ -68,13 +68,8 @@ git push -u origin main
 - In `processing/radar_visualizer.pde`, update the serial port string to match your system.
 - Adjust `THRESHOLD` and `PERIOD` in the Nano sketch for your LDR/LED setup and ambient light conditions.
 
-## Screenshots
+## Project Photo
 
-Add your images to `assets/` with these names (or update the paths below):
+Place your photo in the `assets/` folder with the name `setup.jpg` (or update the path below if you prefer a different name).
 
-- UI screenshot: `assets/radar_ui.png`
-- Wiring diagram: `assets/wiring.png`
-
-![Radar UI](assets/radar_ui.png)
-
-![Wiring Diagram](assets/wiring.png)
+![Project Setup](assets/setup.jpg)
